@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "artist": "Freddie",
+      "artist": "Freddie Agui",
       "title": "Anak",
       "chipset": "Tag 8",
-      "track": 0038
+      "track": "0038"
     },
     {
       "name": "John",
