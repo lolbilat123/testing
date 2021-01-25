@@ -1,1 +1,7 @@
-{"results":[{"gender":"male","name":{"title":"Mr","first":"Matt","last":"Stewart"},"location":{"street":{"number":495,"name":"Station Road"},"city":"Truro","state":"Powys","country":"United Kingdom","postcode":"R3 7UP","coordinates":{"latitude":"13.2378","longitude":"-103.9602"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"matt.stewart@example.com","login":{"uuid":"ad50cebc-f9ac-448d-9355-b42f7946731e","username":"goldengoose738","password":"chicken1","salt":"0MPWtI1g","md5":"7e688381b9be06906a8c0d48044b6df2","sha1":"a8c175f48b827b03a69be9821e37e36e856d6e38","sha256":"d8c23fe0b2f70e667657797b146a68e33c6c7901727ebbbdcf8b4862dfe35bff"},"dob":{"date":"1960-06-10T21:47:41.951Z","age":61},"registered":{"date":"2005-06-26T21:46:18.646Z","age":16},"phone":"016977 4831","cell":"0775-306-541","id":{"name":"NINO","value":"OT 50 57 28 I"},"picture":{"large":"https://randomuser.me/api/portraits/men/94.jpg","medium":"https://randomuser.me/api/portraits/med/men/94.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/94.jpg"},"nat":"GB"}],"info":{"seed":"521787bb03a4157f","results":1,"page":1,"version":"1.3"}}
+[ {
+	"name" {
+		"Title": "Anak",
+		"Artist": "Freddie Aguilar",
+		"Chipset": "Tagalog 8"
+	}
+]
