@@ -1,10 +1,14 @@
 {
-	"users": [
-		{
-			"number": 0038,
-			"artist": "Freddie Aguilar",
-			"title": "Anak",
-			"chipset": "Tagalog 3"
-		}
- ]
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    }
+  ]
 }
