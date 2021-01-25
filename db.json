@@ -1,8 +1,7 @@
-[ {
-	"name" {
-		"Title": "Anak",
-		"Artist": "Freddie Aguilar",
-		"Chipset": "Tagalog 8"
+[ 
+	{
+		"id": 0038,
+		"artist": "Freddie Aguilar",
+		"title": "Anak"
 	}
-}
 ]
