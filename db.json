@@ -1,7 +1,9 @@
-[ 
-	{
-		"id": 0038,
-		"artist": "Freddie Aguilar",
-		"title": "Anak"
-	}
-]
+{
+	"users": [
+		{
+			"number": 0038,
+			"artist": "Freddie Aguilar",
+			"title": "Anak",
+			"chipset": "Tagalog 3"
+ ]
+}
