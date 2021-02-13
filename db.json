@@ -1,16 +1,5 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "artist": "Freddie Agui",
-      "title": "Anak",
-      "chipset": "Tag 8",
-      "track": "0038"
-    },
-    {
-      "name": "John",
-      "id": 2,
-      "age": 40
-    }
-  ]
+	"id": 1,
+	"title": "Anak",
+	"body": "1234"
 }
